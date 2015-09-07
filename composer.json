@@ -1,0 +1,14 @@
+{
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+      "psr-4": {"Brzoski\\": "src/"}
+    },
+    "require-dev": {
+      "phpspec/phpspec": "~2.0"
+    },
+    "config": {
+      "bin-dir": "bin"
+    }
+}
