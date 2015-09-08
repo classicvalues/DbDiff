@@ -1,5 +1,7 @@
 # DbDiff
 
+[![Build Status](https://travis-ci.org/TidioLtd/DbDiff.svg)](https://travis-ci.org/TidioLtd/DbDiff)
+
 ### About
 Database Diff Tool is a library for comparing database schemas.
 ### Features
